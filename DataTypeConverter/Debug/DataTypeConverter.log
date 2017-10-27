@@ -1,0 +1,5 @@
+﻿  DataTypeConverter.cpp
+c:\users\owner\source\repos\datatypeconverter\datatypeconverter\datatypeconverter.cpp(89): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'char', possible loss of data
+c:\users\owner\source\repos\datatypeconverter\datatypeconverter\datatypeconverter.cpp(43): warning C4715: 'hex_char_to_bin': not all control paths return a value
+  DataTypeConverter.vcxproj -> C:\Users\Owner\source\repos\DataTypeConverter\Debug\DataTypeConverter.exe
+  DataTypeConverter.vcxproj -> C:\Users\Owner\source\repos\DataTypeConverter\Debug\DataTypeConverter.pdb (Partial PDB)
